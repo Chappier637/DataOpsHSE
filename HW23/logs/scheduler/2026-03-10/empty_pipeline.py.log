@@ -1,0 +1,116 @@
+[2026-03-10T10:24:32.876+0000] {processor.py:186} INFO - Started process (PID=277) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:24:32.877+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:24:32.881+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:24:32.880+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:24:32.899+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:24:33.217+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:24:33.216+0000] {override.py:1858} INFO - Created Permission View: can delete on DAG:empty_pipeline_hw23
+[2026-03-10T10:24:33.224+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:24:33.224+0000] {override.py:1858} INFO - Created Permission View: can edit on DAG:empty_pipeline_hw23
+[2026-03-10T10:24:33.228+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:24:33.228+0000] {override.py:1858} INFO - Created Permission View: can read on DAG:empty_pipeline_hw23
+[2026-03-10T10:24:33.228+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:24:33.228+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:24:33.239+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:24:33.239+0000] {dag.py:3234} INFO - Creating ORM DAG for empty_pipeline_hw23
+[2026-03-10T10:24:33.240+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:24:33.240+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:24:33.256+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.403 seconds
+[2026-03-10T10:25:04.079+0000] {processor.py:186} INFO - Started process (PID=288) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:25:04.085+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:25:04.128+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:25:04.126+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:25:04.202+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:25:04.374+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:25:04.373+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:25:04.455+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:25:04.455+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:25:04.509+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.508 seconds
+[2026-03-10T10:25:35.424+0000] {processor.py:186} INFO - Started process (PID=300) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:25:35.425+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:25:35.429+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:25:35.428+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:25:35.448+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:25:35.500+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:25:35.499+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:25:35.531+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:25:35.531+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:25:35.548+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.133 seconds
+[2026-03-10T10:26:06.194+0000] {processor.py:186} INFO - Started process (PID=311) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:26:06.195+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:26:06.199+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:26:06.198+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:26:06.218+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:26:06.268+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:26:06.268+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:26:06.285+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:26:06.285+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:26:06.299+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.112 seconds
+[2026-03-10T10:26:31.522+0000] {processor.py:186} INFO - Started process (PID=322) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:26:31.528+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:26:31.545+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:26:31.541+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:26:31.595+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:26:31.842+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:26:31.842+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:26:32.260+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:26:32.260+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:26:32.290+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.798 seconds
+[2026-03-10T10:27:02.728+0000] {processor.py:186} INFO - Started process (PID=333) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:27:02.730+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:27:02.736+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:27:02.736+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:27:02.767+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:27:02.811+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:27:02.811+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:27:02.832+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:27:02.832+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:27:02.852+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.136 seconds
+[2026-03-10T10:27:33.152+0000] {processor.py:186} INFO - Started process (PID=356) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:27:33.155+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:27:33.168+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:27:33.165+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:27:33.194+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:27:33.243+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:27:33.243+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:27:33.262+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:27:33.261+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:27:33.277+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.137 seconds
+[2026-03-10T10:28:03.515+0000] {processor.py:186} INFO - Started process (PID=367) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:28:03.518+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:28:03.522+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:28:03.521+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:28:03.551+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:28:03.592+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:28:03.592+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:28:03.608+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:28:03.608+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:28:03.631+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.130 seconds
+[2026-03-10T10:28:34.002+0000] {processor.py:186} INFO - Started process (PID=378) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:28:34.005+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:28:34.017+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:28:34.013+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:28:34.045+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:28:34.117+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:28:34.117+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:28:34.135+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:28:34.135+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:28:34.152+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.163 seconds
+[2026-03-10T10:29:04.356+0000] {processor.py:186} INFO - Started process (PID=389) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:29:04.363+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:29:04.370+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:29:04.369+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:29:04.427+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:29:04.476+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:29:04.475+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:29:04.493+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:29:04.493+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:29:04.509+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.171 seconds
+[2026-03-10T10:29:34.674+0000] {processor.py:186} INFO - Started process (PID=400) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:29:34.675+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:29:34.679+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:29:34.679+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:29:34.700+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:29:34.743+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:29:34.743+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:29:34.757+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:29:34.757+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:29:34.773+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.106 seconds
+[2026-03-10T10:29:38.942+0000] {processor.py:186} INFO - Started process (PID=405) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:29:38.944+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:29:38.954+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:29:38.952+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:29:38.980+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:29:39.247+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:29:39.246+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:29:39.276+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:29:39.276+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:29:39.316+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.389 seconds
+[2026-03-10T10:29:43.016+0000] {processor.py:186} INFO - Started process (PID=416) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:29:43.018+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:29:43.026+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:29:43.025+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:29:43.071+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:29:43.098+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:29:43.098+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:29:43.146+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:29:43.146+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:29:43.173+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.173 seconds
+[2026-03-10T10:30:13.333+0000] {processor.py:186} INFO - Started process (PID=427) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:30:13.334+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:30:13.337+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:30:13.337+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:30:13.406+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:30:14.350+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:30:14.349+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:30:14.377+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:30:14.377+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:30:14.403+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 1.082 seconds
+[2026-03-10T10:30:44.895+0000] {processor.py:186} INFO - Started process (PID=438) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:30:44.908+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:30:44.915+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:30:44.914+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:30:44.941+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:30:45.007+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:30:45.007+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:30:45.037+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:30:45.037+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:30:45.057+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.299 seconds
+[2026-03-10T10:31:15.369+0000] {processor.py:186} INFO - Started process (PID=449) to work on /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:31:15.370+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/empty_pipeline.py for tasks to queue
+[2026-03-10T10:31:15.375+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:31:15.375+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:31:15.394+0000] {processor.py:925} INFO - DAG(s) 'empty_pipeline_hw23' retrieved from /opt/airflow/dags/empty_pipeline.py
+[2026-03-10T10:31:15.444+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:31:15.443+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2026-03-10T10:31:15.461+0000] {logging_mixin.py:190} INFO - [2026-03-10T10:31:15.460+0000] {dag.py:4138} INFO - Setting next_dagrun for empty_pipeline_hw23 to None, run_after=None
+[2026-03-10T10:31:15.477+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/empty_pipeline.py took 0.118 seconds
